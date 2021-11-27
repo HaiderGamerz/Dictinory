@@ -1,2 +1,1 @@
-# Dictinory
-FREE
+"# Dictinory" 
